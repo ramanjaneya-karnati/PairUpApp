@@ -1,0 +1,69 @@
+{
+  "categories":[
+    {
+      "id": "breakfast",
+      "title": "Club Chocolate",
+      "subtitle": "Dance Club",
+      "picture": {
+        "uri": "http://ideakhoj.com/wp-content/uploads/2018/05/shutterstock_361846493.jpg",
+        "preview": "http://ideakhoj.com/wp-content/uploads/2018/05/shutterstock_361846493.jpg"
+      }
+    },
+    {
+      "id": "vegetarian",
+      "title": "After Office",
+      "subtitle": "Dance Club",
+      "picture": {
+        "uri": "https://cdn.gq.com.mx/uploads/images/thumbs/mx/gq/2/s/2017/24/after_office_2102_620x413.jpg",
+        "preview":"https://cdn.gq.com.mx/uploads/images/thumbs/mx/gq/2/s/2017/24/after_office_2102_620x413.jpg"
+      }
+    },
+    {
+      "id": "test",
+      "title": "Club Chocolate",
+      "subtitle": "Dance Club",
+      "picture": {
+        "uri": "http://ideakhoj.com/wp-content/uploads/2018/05/shutterstock_361846493.jpg",
+        "preview": "http://ideakhoj.com/wp-content/uploads/2018/05/shutterstock_361846493.jpg"
+      }
+    },
+    {
+      "id": "best",
+      "title": "After Office",
+      "subtitle": "Dance Club",
+      "picture": {
+        "uri": "https://cdn.gq.com.mx/uploads/images/thumbs/mx/gq/2/s/2017/24/after_office_2102_620x413.jpg",
+        "preview":"https://cdn.gq.com.mx/uploads/images/thumbs/mx/gq/2/s/2017/24/after_office_2102_620x413.jpg"
+      }
+    },
+    {
+      "id": "worst",
+      "title": "Club Chocolate",
+      "subtitle": "Dance Club",
+      "picture": {
+        "uri": "http://ideakhoj.com/wp-content/uploads/2018/05/shutterstock_361846493.jpg",
+        "preview": "http://ideakhoj.com/wp-content/uploads/2018/05/shutterstock_361846493.jpg"
+      }
+    },
+    {
+      "id": "first",
+      "title": "After Office",
+      "subtitle": "Dance Club",
+      "picture": {
+        "uri": "https://cdn.gq.com.mx/uploads/images/thumbs/mx/gq/2/s/2017/24/after_office_2102_620x413.jpg",
+        "preview":"https://cdn.gq.com.mx/uploads/images/thumbs/mx/gq/2/s/2017/24/after_office_2102_620x413.jpg"
+      }
+    }
+  ],
+  "users":{
+    "age": "27",
+    "name": "Ramanjaneya",
+    "profession":"application developer",
+    "picture": "https://firebasestorage.googleapis.com/v0/b/react-native-e.appspot.com/o/8bbac5ad06b4a569b8a446825f7371c81ebac821.png?alt=media&token=73b33332-c587-464b-af68-52554221b73a",
+    "cover": {
+      "uri": "http://ppimgs.s3.amazonaws.com/teri-7.jpg",
+      "preview": "http://ppimgs.s3.amazonaws.com/teri-7.jpg"
+    }
+  }
+
+}

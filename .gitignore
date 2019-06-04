@@ -1,0 +1,8 @@
+.DS_Store
+.expo/
+.idea/
+builds/
+dist/
+node_modules/
+package-lock.json
+dist_bkp

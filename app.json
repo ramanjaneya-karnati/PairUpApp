@@ -1,0 +1,35 @@
+{
+  "expo": {
+    "name": "Pairup",
+    "description": "App will connect you to the singles who are interested to pair up for dance, date or for a coffee",
+    "slug": "pair-up",
+    "privacy": "public",
+    "sdkVersion": "30.0.0",
+    "platforms": [
+      "ios",
+      "android"
+    ],
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/images/app-logo.png",
+    "splash": {
+      "image": "./assets/images/splash_screen.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "enabled": true,
+      "fallbackToCacheTimeout": 30000
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.starkshouse.pairup"
+    },
+    "android": {
+      "package": "com.starkshouse.pairup"
+    }
+  }
+}
