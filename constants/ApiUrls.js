@@ -1,5 +1,4 @@
-const BASE_URL = 'http://157.230.95.86/pairup/api';
-//const BASE_URL = 'http://192.168.0.4:8080/pairup/api';
+const BASE_URL = '<BACKEND API URL>';
 
 
 export const API = {

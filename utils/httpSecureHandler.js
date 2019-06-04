@@ -11,7 +11,6 @@ export default async function httpSecureHandler(url, request) {
     body: JSON.stringify(request),
   };
   return new Promise(function (resolve, reject) {
-    debugger
     fetch(url, options).then(function (response) {
       return response.json();
     }).then(function (response) {

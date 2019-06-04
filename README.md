@@ -1,29 +1,32 @@
-# README #
+## PairupApp
+The App let you connect for a singles who are willing to pairup/join for a **Dance**, **Coffee**, for a **Beer** and **Date**.
 
-This README would normally document whatever steps are necessary to get your application up and running.
+## Motivation
+The motivation behind this project is to fillup a small gap for sigles who are looking for a company or dance patner.
 
-### What is this repository for? ###
+## Tech/framework used
+Ex. -
 
-* Quick summary
-* Version
-* [Learn Markdown](https://bitbucket.org/tutorials/markdowndemo)
+<b>Built with</b>
+- React Native
+- Redux
+- React Native UI Libraries
+- Expo
+- Jest
 
-### How do I get set up? ###
+## Features
+- List of all the coffee shops, dance places
+- Users can swipe the people they like
+- Profile updation
+- User interests selection
+- Chatting
 
-* Summary of set up
-* Configuration
-* Dependencies
-* Database configuration
-* How to run tests
-* Deployment instructions
+## Installation
+- Clone the https://github.com/ramanjaneya-karnati/PairUpApp.git
+- Change to the project directory and make a "**npm install**"
+- Need to update the backend api url in constants -> ApiUrls.js -> BASE_URL
 
-### Contribution guidelines ###
 
-* Writing tests
-* Code review
-* Other guidelines
+## License
 
-### Who do I talk to? ###
-
-* Repo owner or admin
-* Other community or team contact
+MIT © [Ramanjaneya]()
